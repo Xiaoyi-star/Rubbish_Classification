@@ -1,0 +1,23 @@
+# 图片数据
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# 模型权重（可忽略）
+*.pth
+*.pt
+
+# 输出结果
+*.jpg
+result.jpg
+training_curves.png
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
